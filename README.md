@@ -1,0 +1,1 @@
+Brief Description: This is the client file that is created to run the class Temperature. This file test the creation of Temperature objects. Each creation of an object will the the constructors, mutators, accessor and methods. In this file methods have been created at the bottom to print results in order to save better facilitate clean code.
